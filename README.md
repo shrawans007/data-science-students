@@ -7,7 +7,7 @@ In 2022, there were high expectations for the growth of the 365 company and incr
 
 Additionally, the company expanded its course library, covering a broader range of topics to provide its students with a richer set of skills and attract a larger audience. These enhancements were anticipated to positively impact the student experience, create an effective strategy for customer engagement, and contribute to the company's success in the coming year. 
 
-### With this Customer Engagement Analysis in Excel project, you must analyze whether the new additions to the platform have increased student engagement.
+#### With this Customer Engagement Analysis in Excel project, you must analyze whether the new additions to the platform have increased student engagement.
 
 In addition, consider the following information about the column values while working with the data:
 
@@ -21,4 +21,7 @@ In addition, consider the following information about the column values while wo
 
 5. minutes_watched_22 – denotes the student’s engagement level, as expressed by the number of minutes a student has watched in Q4 2022.
 
-### The Excel file 'Engagement Project.xlsx' consists of four sheets: Task 1 and 2, Task 3, Task 4, and Task 5. Each sheet contains specific information regarding the project's tasks and corresponding data. Use the data in these sheets to answer the questions that follow.
+#### The Excel file 'Engagement Project.xlsx' consists of four sheets: Task 1 and 2, Task 3, Task 4, and Task 5. Each sheet contains specific information regarding the project's tasks and corresponding data. Use the data in these sheets to answer the questions that follow.
+
+### Descriptive Statistics
+#### Task 1
