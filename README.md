@@ -74,6 +74,20 @@ The mean is larger than the median in a right-skewed distribution because the di
 
 **In both cases, the mean is higher than the median (33.80 > 26.33 in 2021 and 273.02 > 40.28 in 2022).**
 
+As a result, the mean is no longer a good central tendency indicator, and it cannot accurately reflect the typical value of the dataset. Note that skewness tells us the direction of outliers but doesn’t indicate the number that occurs.
+
+**Kurtosis** measures the degree of tailedness—the weight of the tails relative to the rest of the distribution. In other words, it shows how much of the data is in the tails compared to the center. Located farthest from the center, the tails represent the regions where data points are more dispersed—suggesting the presence of more extreme values. If a distribution is heavy-tailed—i.e., more data in the tails—it exhibits high kurtosis. Meanwhile, a low kurtosis occurs when the data is more evenly distributed between the tails and the center or the distribution is light-tailed.
+
+For **paid-plan students**, the kurtosis increased from -0.85 in Q4 2021 to 58.48 in Q4 2022.
+
+![Screenshot 2025-01-06 213103](https://github.com/user-attachments/assets/c00b3403-0ec4-4e0a-8282-e3ccf22ccf2f)
+
+The kurtosis increased for free-plan students also—from 0.36 in Q4 2021 to 315.76 in Q4 2022. 
+
+![Screenshot 2025-01-06 213113](https://github.com/user-attachments/assets/f1556067-607f-44e2-983f-d245d0cb7754)
+
+The increase in kurtosis over time suggests **more extreme cases in the data in Q4 2022 than in Q4 2021, particularly for free-plan students**. Overall, the increasing skewness and kurtosis for both groups from Q4 2021 to Q4 2022 suggest a **growing number of students watching significantly more content than the majority**. This is especially true for **free-plan students** with a higher skewness and kurtosis in Q4 2022 than **paid-plan students**.
+
 ### 3. Confidence Interval
 Task 3
 
