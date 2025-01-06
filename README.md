@@ -26,7 +26,7 @@ The Excel file 'Engagement Project.xlsx' consists of four worksheets: Task 1 and
 Whole case study project is devided into three major parts:
 
 ### Part 1. Descriptive Statistics (Task 1 and 2)
-Task 1 
+Task 1: 
 After checking the data and doing needed calculations using Excel functions/formulas interpretaion of results are as follows: 
 **Paid-Plan Students**
 
