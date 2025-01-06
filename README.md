@@ -29,6 +29,7 @@ Whole case study project is devided into three major parts:
 Task 1 
 After checking the data and doing needed calculations using Excel functions/formulas interpretaion of results are as follows: 
 #### Paid-Plan Students
+![Screenshot 2025-01-06 205641](https://github.com/user-attachments/assets/7e49299e-9625-4b3c-b374-51898e669cfe)
 
 
 
