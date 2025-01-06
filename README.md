@@ -26,8 +26,7 @@ The Excel file 'Engagement Project.xlsx' consists of four worksheets: Task 1 and
 Whole case study project is devided into three major parts:
 
 ### Part 1. Descriptive Statistics (Task 1 and 2)
-Task 1: 
-After checking the data and doing needed calculations using Excel functions/formulas interpretaion of results are as follows: 
+**Task 1**: You can find the solution to this problem in the Descriptive Statistics – tasks 1-2.xlsx file: After checking the data and doing needed calculations using Excel functions/formulas interpretaion of results are as follows: 
 **Paid-Plan Students**
 
 ![Screenshot 2025-01-06 210255](https://github.com/user-attachments/assets/1fd7c5d3-f740-4eb2-9d81-649449802a1e)
@@ -49,6 +48,31 @@ These results suggest that paid-plan students who were initially **low-engagemen
 **Median**: Interestingly, the median minutes watched by these low-engagement-free-plan students decreased from Q4 2021 to Q4 2022, from 14.17 minutes to 11.83 minutes. This indicates that engagement decreased for the typical student in this group (i.e., the student in the middle of the distribution). The increase in the mean might be driven by a small number of free-plan students who significantly increased their engagement in Q4 2022, while the majority did not increase their engagement or even reduced it.
 
 **Standard Deviation**: The standard deviation for the low-engagement-free-plan students increased from 26.23 minutes in Q4 2021 to 468.93 minutes in Q4 2022. This indicates a more significant variability in the minutes watched by these students in Q4 2022 compared to Q4 2021. The behavior of these students then became more diverse in Q4 2022, with some watching a lot of content and others watching very little.
+
+These results suggest a complex picture for the **initially low-engagement-free-plan students**. While the mean minutes watched increased—signifying an increase in overall engagement—the **median minutes watched decreased**, indicating that the typical student in this group did not increase their engagement. This discrepancy and the increased standard deviation suggest that a small number of students within this group m**ight significantly increase their engagement while the majority did not**. This might imply the need for targeted strategies **to boost engagement among the broader population** of initially low-engagement-free-plan students.
+
+**Paid vs Free-Plan Students**
+On average, low-engagement-paid students initially **increased their watching time** more significantly than the free-plan students from Q4 2021 to Q4 2022. This could suggest that **paid-plan students find more value in the platform**, possibly due to premium features or content that are available to them. In contrast, the median watch time decreased for free-plan students, suggesting that the **typical free-plan student in this group did not increase their engagement**. This discrepancy might indicate that the strategies or features designed to increase engagement are **more effective for paid-plan students**. It could also suggest that the **monetary investment leads to increased usage** due to a desire to get their money's worth.
+
+Based on the findings, the platform is **more successful in increasing engagement among students who make a monetary investment** (i.e., paid-plan students). But the increased variability, especially among paid-plan students, indicates that there are likely differences in how individual students are responding to the platform's offerings. Therefore, **personalized approaches might be beneficial in boosting engagement**, and further analysis could help understand the factors that **drive increased engagement among paid- and free-plan students**.
+
+**Task 2** You can find the solution to this problem in the Descriptive Statistics – tasks 1-2.xlsx file: After checking the data and doing needed calculations using Excel functions/formulas interpretaion of results are as follows: 
+
+**Skewness** is a fundamental measure of probability distribution asymmetry in a dataset. It reveals whether the observations are concentrated more on one side of the distribution. This metric helps us understand how the data deviates from a normal distribution and provides insights into its underlying structure. A positive skewness value (higher than 0) indicates a right-skewed distribution, while a negative skewness value (lower than 0) points to a left-skewed distribution. A symmetrical distribution has a skewness value of 0, indicating a balanced data spread around the mean.
+
+For **paid-plan students**, the skewness increased from 0.63 in Q4 2021 to 7.07 in Q4 2022.
+
+![Screenshot 2025-01-06 212331](https://github.com/user-attachments/assets/54840fd0-dc06-4b0e-a026-2ab46a663264)
+
+The skewness for **free-plan students** increased from 1.17 in Q4 2021 to 15.06 in Q4 2022, indicating positive skewness.
+
+![Screenshot 2025-01-06 212347](https://github.com/user-attachments/assets/bc43fda8-53ed-456b-92d1-b67cf7efd883)
+
+**Positive skew (right-skew)** occurs when the data is not symmetrical around the mean, forming a long tail on its right side. This signifies that most of the distribution's observations are concentrated to the left of the peak. Positive skewness can have several implications.
+
+The mean is larger than the median in a right-skewed distribution because the distribution tail pulls the mean to the right. This observation is confirmed by the mean and median values in the two years. An increasing skewness suggests that more students watch significantly more content than most over time, pulling the mean upwards.
+
+**In both cases, the mean is higher than the median (33.80 > 26.33 in 2021 and 273.02 > 40.28 in 2022).**
 
 ### 3. Confidence Interval
 Task 3
