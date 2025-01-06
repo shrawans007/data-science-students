@@ -5,7 +5,7 @@ In 2022, there were high expectations for the growth of the 365 company and incr
 
 In addition, consider the following information about the column values while working with the data:
 
-### student_id 
+*student_id 
 – the unique identifier for each student in the dataset. The field contains IDs for students who used the 365 Data Science platform with free or paid accounts in Q4 2021 (October 1, 2021 – December 31, 2021, both included) and Q4 2022 (October 1, 2022 – December 31, 2022, both included).
 
 student_country – identifies the country of each student. The field provides information about students’ geographic location and can help analyze regional differences or conduct country-specific analyses.
