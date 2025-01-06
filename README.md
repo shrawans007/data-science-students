@@ -25,8 +25,12 @@ The Excel file 'Engagement Project.xlsx' consists of four worksheets: Task 1 and
 
 Whole case study project is devided into three major parts:
 
-### 1. Descriptive Statistics
-Task 1 and 2
+### Part 1. Descriptive Statistics (Task 1 and 2)
+Task 1 
+After checking the data and doing needed calculations using Excel functions/formulas interpretaion of results are as follows: 
+#### Paid-Plan Students
+![Screenshot 2025-01-06 202422](https://github.com/user-attachments/assets/913d457a-2dbb-45b1-9b24-8666743c12c4)
+
 
 ### 3. Confidence Interval
 Task 3
