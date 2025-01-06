@@ -6,7 +6,7 @@ In 2022, there were high expectations for the growth of the 365 company and incr
 
 2. The platform also offered in-app coins that could be exchanged for special awards, a leaderboard where students could compete for top positions in different divisions, earning weekly rewards and advancing up the ladder, and streaks to motivate students to maintain consistent learning habits. 
 
-These enhancements were anticipated to positively impact the student experience, create an effective strategy for customer engagement, and contribute to the company's success in the coming year. With this Customer Engagement Analysis in Excel project, you must analyze whether the new additions to the platform have increased student engagement.
+These enhancements were anticipated to positively impact the student experience, create an effective strategy for customer engagement, and contribute to the company's success in the coming year. With this Customer Engagement Analysis in Excel project, as a data analyst I must analyze whether the new additions to the platform have increased student engagement.
 
 ----Column names in provided raw Excel file:
 
@@ -20,7 +20,9 @@ These enhancements were anticipated to positively impact the student experience,
 
 5. minutes_watched_22 – denotes the student’s engagement level, as expressed by the number of minutes a student has watched in Q4 2022.
 
-#### The Excel file 'Engagement Project.xlsx' consists of four sheets: Task 1 and 2, Task 3, Task 4, and Task 5. Each sheet contains specific information regarding the project's tasks and corresponding data. Whole case study project is devided into three major parts 
+#### The Excel file 'Engagement Project.xlsx' consists of four worksheets: Task 1 and 2, Task 3, Task 4, and Task 5. Each sheet contains specific information regarding the project's tasks and corresponding data. 
+
+Whole case study project is devided into three major parts:
 
 ### 1. Descriptive Statistics
 Task 1 and 2
