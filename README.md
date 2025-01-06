@@ -32,3 +32,4 @@ Task 3
 
 ### 5. Hypothesis Testing
 Task 4 and Task 5
+![Screenshot 2025-01-06 202422](https://github.com/user-attachments/assets/e310afdd-4aad-4a94-803e-06ded8dac62b)
