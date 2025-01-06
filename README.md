@@ -29,7 +29,14 @@ Whole case study project is devided into three major parts:
 Task 1 
 After checking the data and doing needed calculations using Excel functions/formulas interpretaion of results are as follows: 
 #### Paid-Plan Students
-![Screenshot 2025-01-06 205641](https://github.com/user-attachments/assets/7e49299e-9625-4b3c-b374-51898e669cfe)
+
+![Screenshot 2025-01-06 210255](https://github.com/user-attachments/assets/1fd7c5d3-f740-4eb2-9d81-649449802a1e)
+
+**Mean**: Among students who watched between 1 and 100 minutes in 2021, the average minutes watched by paid-plan students increased significantly from Q4 2021 to Q4 2022, from approximately 33.80 minutes to about 273.02 minutes. This suggests a substantial increase in engagement among this group of initially low-engagement-paid-plan students.
+
+**Median**: The median minutes these low-engagement-paid-plan students watched increased from Q4 2021 to Q4 2022, from 26.33 minutes to 40.28 minutes. While this increase is not as dramatic as the increase in the mean, it indicates that the typical student in this group (i.e., the student in the middle of the distribution) also increased their engagement. This suggests that the increase in engagement was more widespread among paid-plan students and not solely driven by a few outliers.
+
+**Standard Deviation**: The standard deviation for these low-engagement-paid-plan students increased substantially from 28.21 minutes in Q4 2021 to 854.58 minutes in Q4 2022. This indicates a much larger variability in the minutes watched by these students in Q4 2022 compared to Q4 2021. This could be due to a broader range of engagement levels among the students in Q4 2022, with some students watching very little content and others watching a lot of content.
 
 
 
