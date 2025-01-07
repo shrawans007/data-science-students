@@ -121,3 +121,13 @@ Similarly, the decrease in engagement among free-plan students could be **due to
 **Task 4**
 Test for Variances
 First, I must perform a **two-sample f-test for variances** to prove that assumption of unequal variances between the samples for free-plan and paid-plan subscribers:
+
+![Screenshot 2025-01-07 140032](https://github.com/user-attachments/assets/430f5c6b-ced6-4d16-8b0c-f52829b5569e)
+
+
+
+
+
+
+
+
