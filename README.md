@@ -127,13 +127,11 @@ First, I must perform a **two-sample f-test for variances** to prove that assump
 
 ![Screenshot 2025-01-07 140032](https://github.com/user-attachments/assets/430f5c6b-ced6-4d16-8b0c-f52829b5569e)
 
-The p-value indicates the probability of obtaining the observed f-value if the null hypothesis (equal variances) were true. The sample variances are not identical since the p-value in both cases is 0.
+The p-value indicates the probability of obtaining the observed f-value if the **null hypothesis (equal variances)** were true. The sample variances are not identical since the **p-value in both cases is 0**.
 
-Next, we use a left-tailed t-test assuming unequal variances for paying and free-plan students. 
+Next, we use a use the **Two-Sample t-Test** that is part of the Data Analysis ToolPak **assuming unequal variances** for paying and free-plan students 
 
-**Paid-Plan Students**
 
-Calculate the mean, standard deviation, and sample size for paid-plan students:
 
 
 
