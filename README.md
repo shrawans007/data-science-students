@@ -29,6 +29,7 @@ Whole case study project is devided into three major parts:
 
 ### Part 1. Descriptive Statistics (Task 1 and 2)
 **Note**: Analysed Excel file is by name ['Engagement Project_Analysed_Copy_shrawans007'](https://github.com/shrawans007/data_science_students/blob/1f19f98129874fb344adde7e16b92ba192beb00d/Engagement%20Project_Analysed_Copy_shrawans007.xlsx) is attached above, you can download and see it.
+
 **Task 1**: After checking the data and doing needed calculations using Excel functions/formulas interpretaion of results are as follows: 
 **Paid-Plan Students**
 
