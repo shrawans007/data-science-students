@@ -117,7 +117,7 @@ The fact that paid-plan subscribers watch more doesn't necessarily mean **that h
 
 Similarly, the decrease in engagement among free-plan students could be **due to various factors, such as changes in the platform, competition from other platforms, or changes in the user base**.
 
-**Part 3: Hypothesis Testing
-Task 4**
+**Part 3: Hypothesis Testing**
+**Task 4**
 Test for Variances
 First, I must perform a **two-sample f-test for variances** to prove that assumption of unequal variances between the samples for free-plan and paid-plan subscribers:
