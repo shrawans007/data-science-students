@@ -133,7 +133,7 @@ Next, we use a use the **Two-Sample t-Test** that is part of the Data Analysis T
 
 ![Screenshot 2025-01-07 141402](https://github.com/user-attachments/assets/10c22af3-583b-4999-880c-b00dbdd30e57)
 
-Decision Rule: If p-value ≤ 0.05, Reject Ho
+_Decision Rule: If p-value ≤ 0.05, Reject Ho_
 
 **Conclusion**: Reject  because the p-value is lower than the specified significance level α (0.05).
 
