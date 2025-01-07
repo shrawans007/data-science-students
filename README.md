@@ -91,8 +91,7 @@ The kurtosis increased for free-plan students also—from 0.36 in Q4 2021 to 315
 
 The increase in kurtosis over time suggests **more extreme cases in the data in Q4 2022 than in Q4 2021, particularly for free-plan students**. Overall, the increasing skewness and kurtosis for both groups from Q4 2021 to Q4 2022 suggest a **growing number of students watching significantly more content than the majority**. This is especially true for **free-plan students** with a higher skewness and kurtosis in Q4 2022 than **paid-plan students**.
 
-### Part 2. Confidence Interval
-**Task 3**
+### Part 2. Confidence Interval (Task 3)
 Comparing the four groups, I observed the following:
 
 **Paid-Plan Students**:
@@ -117,7 +116,7 @@ The fact that paid-plan subscribers watch more doesn't necessarily mean **that h
 
 Similarly, the decrease in engagement among free-plan students could be **due to various factors, such as changes in the platform, competition from other platforms, or changes in the user base**.
 
-### Part 3: Hypothesis Testing
+### Part 3. Hypothesis Testing (Task 4 and 5)
 
 **Task 4**
 
