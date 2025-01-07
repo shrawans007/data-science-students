@@ -1,5 +1,4 @@
-# Students_365datascience.com
-**Customer Engagement Analysis in Excel Project**
+# Students_365datascience.com_Customer Engagement Analysis in Excel Project
 ## Case Description
 In 2022, there were high expectations for the growth of the 365 company and increased student engagement based on the introduction of new website platform features. Some of these features included,
 1. An XP system that enabled students to track their progress, level up, and earn rewards by completing various learning objectives. 
