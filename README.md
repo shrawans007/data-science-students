@@ -131,6 +131,17 @@ The p-value indicates the probability of obtaining the observed f-value if the *
 
 Next, we use a use the **Two-Sample t-Test** that is part of the Data Analysis ToolPak **assuming unequal variances** for paying and free-plan students 
 
+![Screenshot 2025-01-07 141402](https://github.com/user-attachments/assets/10c22af3-583b-4999-880c-b00dbdd30e57)
+
+Decision Rule: If p-value ≤ 0.05, Reject Ho
+
+**Conclusion**: Reject  because the p-value is lower than the specified significance level α (0.05).
+
+**Summary**: With a t-statistic of -3.05 (less than the critical value of -1.645), you would reject the null hypothesis because the negative t-statistic indicates that  (the mean minutes watched by students in Q4 2021) is significantly smaller than  (the mean minutes watched by students in Q4 2022). This is contrary to the null, so we reject it. Of course, rejecting the null hypothesis does not confirm the alternative hypothesis; it suggests that the data provide enough evidence against the null hypothesis.
+
+**Free-Plan Students**
+
+
 
 
 
