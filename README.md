@@ -133,7 +133,7 @@ Next, we use a use the **Two-Sample t-Test** that is part of the Data Analysis T
 
 ![Screenshot 2025-01-07 141402](https://github.com/user-attachments/assets/10c22af3-583b-4999-880c-b00dbdd30e57)
 
-_Decision Rule: If p-value ≤ 0.05, Reject Ho_
+*_Decision Rule: If p-value ≤ 0.05, Reject Ho_
 
 **Conclusion**: Reject  because the p-value is lower than the specified significance level α (0.05).
 
@@ -153,7 +153,7 @@ We will use the Two-Sample t-Test Assuming Unequal Variances that is part of the
 
 ![Screenshot 2025-01-07 143314](https://github.com/user-attachments/assets/ff669345-6707-405a-b4ca-035f90c17083)
 
-_Decision Rule: If p-value ≤ 0.05, Reject Ho_
+*_Decision Rule: If p-value ≤ 0.05, Reject Ho_
 
 Conclusion: Fail to Reject  because the p-value is higher than the specified significance level α (0.05).
 
@@ -167,12 +167,4 @@ This could have the following implications.
 
 **Resource Allocation**: This information could be helpful when deciding where to allocate resources. For example, if Indian students are more engaged, investing in more content and features targeted toward this audience might make sense.
 
-**End of case study**
-Thank You,
-Best Regards.
-
-
-
-
-
-
+**End of case study** Thank You.
