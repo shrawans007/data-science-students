@@ -141,7 +141,13 @@ _Decision Rule: If p-value ≤ 0.05, Reject Ho_
 
 **Free-Plan Students**
 
+![Screenshot 2025-01-07 141431](https://github.com/user-attachments/assets/ff346daa-2258-43f1-8f54-e15443178bfc)
 
+For free-plan students: With a t-statistic of 29.78 (greater than the critical value of -1.645), you would fail to reject the null hypothesis.
+
+These results align with previous findings from the confidence intervals and further underscore the difference in engagement patterns between paid- and free-plan students.
+
+**Task 5**
 
 
 
