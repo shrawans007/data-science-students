@@ -23,12 +23,12 @@ Columns names with corresponding details:
 5. minutes_watched_22 – denotes the student’s engagement level, as expressed by the number of minutes a student has watched in Q4 2022.
 
 ## Parts And Tasks 
-The Excel file 'Engagement Project.xlsx' consists of four worksheets: Task 1 and 2, Task 3, Task 4, and Task 5. Each sheet contains specific information regarding the project's tasks and corresponding data. 
+The Excel file 'Engagement Project_Raw.xlsx' consists of four worksheets: **Task 1 and 2**, **Task 3**, **Task 4**, and **Task 5**. Each sheet contains specific information regarding the project's tasks and corresponding data. 
 
 Whole case study project is devided into three major parts:
 
 ### Part 1. Descriptive Statistics (Task 1 and 2)
-**Task 1**: You can find the solution to this problem in the Descriptive Statistics – tasks 1-2.xlsx file: After checking the data and doing needed calculations using Excel functions/formulas interpretaion of results are as follows: 
+**Task 1**: After checking the data and doing needed calculations using Excel functions/formulas interpretaion of results are as follows: 
 **Paid-Plan Students**
 
 ![Screenshot 2025-01-06 210255](https://github.com/user-attachments/assets/1fd7c5d3-f740-4eb2-9d81-649449802a1e)
@@ -91,8 +91,16 @@ The kurtosis increased for free-plan students also—from 0.36 in Q4 2021 to 315
 
 The increase in kurtosis over time suggests **more extreme cases in the data in Q4 2022 than in Q4 2021, particularly for free-plan students**. Overall, the increasing skewness and kurtosis for both groups from Q4 2021 to Q4 2022 suggest a **growing number of students watching significantly more content than the majority**. This is especially true for **free-plan students** with a higher skewness and kurtosis in Q4 2022 than **paid-plan students**.
 
-### 3. Confidence Interval
-Task 3
+### 2. Confidence Interval
+**Task 3**
+Comparing the four groups, I observed the following:
+
+**Paid-Plan Students**:
+
+![Screenshot 2025-01-07 130228](https://github.com/user-attachments/assets/80f15edf-e0bf-4bc9-a781-d6ceb34d60f9) ![Screenshot 2025-01-07 130243](https://github.com/user-attachments/assets/5a5d4452-043d-4953-b3c6-d28edd80e1a9)
+
+
+For paid-plan students, there's an increase in engagement from Q4 2021 to Q4 2022. The confidence interval for the average minutes watched by paid-plan students increased from Q4 2021 (316.25 to 348.76 minutes) to Q4 2022 (351.91 to 384.72 minutes). This suggests that we can be 95% confident that the true average minutes watched by all paid-plan students in the population increased from Q4 2021 to Q4 2022.
 
 ### 5. Hypothesis Testing
 Task 4 and Task 5
