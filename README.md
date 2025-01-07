@@ -97,7 +97,8 @@ Comparing the four groups, I observed the following:
 
 **Paid-Plan Students**:
 
-![Screenshot 2025-01-07 130555](https://github.com/user-attachments/assets/7f49d408-bf84-4790-b1f2-222a82f2488a)
+![Screenshot 2025-01-07 130555](https://github.com/user-attachments/assets/7f49d408-bf84-4790-b1f2-222a82f2488a)  ![Screenshot 2025-01-07 130618](https://github.com/user-attachments/assets/fc9f3f4f-dddd-4a82-a8ed-9a4adb5a4c41)
+
 
 
 For paid-plan students, there's an increase in engagement from Q4 2021 to Q4 2022. The confidence interval for the average minutes watched by paid-plan students increased from Q4 2021 (316.25 to 348.76 minutes) to Q4 2022 (351.91 to 384.72 minutes). This suggests that we can be 95% confident that the true average minutes watched by all paid-plan students in the population increased from Q4 2021 to Q4 2022.
