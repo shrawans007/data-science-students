@@ -9,7 +9,7 @@ In the year 2022, there were high expectations for the growth of the 365 company
 These enhancements were anticipated to positively impact the student experience, create an effective strategy for customer engagement, and contribute to the company's success in the coming year. With this Customer Engagement Analysis in Excel project, as a data analyst I must analyze whether the new additions to the platform have increased student engagement.
 
 ## Raw Data And Details
-**Note**: Raw Excel file is by name ['Engagement Project_Raw.xlsx'](https://github.com/shrawans007/data_science_students/blob/1f19f98129874fb344adde7e16b92ba192beb00d/Engagement%20Project_Raw.xlsx) is attached above with this project. You can download and see it. 
+**Note**: Raw Excel file is by name ['Engagement Project_Raw.xlsx'](https://github.com/shrawans007/data_science_students/blob/1f19f98129874fb344adde7e16b92ba192beb00d/Engagement%20Project_Raw.xlsx) is attached above, you can download and see it. 
 
 Columns names with corresponding details:
 1. student_id – the unique identifier for each student in the dataset. The field contains IDs for students who used the 365 Data Science platform with free or paid accounts in Q4 2021 (October 1, 2021 – December 31, 2021, both included) and Q4 2022 (October 1, 2022 – December 31, 2022, both included).
@@ -28,7 +28,7 @@ The Excel file 'Engagement Project_Raw.xlsx' consists of four worksheets: **Task
 Whole case study project is devided into three major parts:
 
 ### Part 1. Descriptive Statistics (Task 1 and 2)
-**Note**: Analysed Excel file is by name 'Engagement Project_Analysed_Copy_shrawans007' is attached above with this project.
+**Note**: Analysed Excel file is by name ['Engagement Project_Analysed_Copy_shrawans007'](https://github.com/shrawans007/data_science_students/blob/1f19f98129874fb344adde7e16b92ba192beb00d/Engagement%20Project_Analysed_Copy_shrawans007.xlsx) is attached above, you can download and see it.
 **Task 1**: After checking the data and doing needed calculations using Excel functions/formulas interpretaion of results are as follows: 
 **Paid-Plan Students**
 
