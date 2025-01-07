@@ -168,5 +168,4 @@ This could have the following implications.
 **Resource Allocation**: This information could be helpful when deciding where to allocate resources. For example, if Indian students are more engaged, investing in more content and features targeted toward this audience might make sense.
 
 **End of case study**
-
 Thank You.
