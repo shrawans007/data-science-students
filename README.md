@@ -149,8 +149,27 @@ These results align with previous findings from the confidence intervals and fur
 
 **Task 5**
 
+We will use the Two-Sample t-Test Assuming Unequal Variances that is part of the Data Analysis ToolPak:
 
+![Screenshot 2025-01-07 143314](https://github.com/user-attachments/assets/ff669345-6707-405a-b4ca-035f90c17083)
 
+_Decision Rule: If p-value ≤ 0.05, Reject Ho_
+
+Conclusion: Fail to Reject  because the p-value is higher than the specified significance level α (0.05).
+
+If the hypothesis that US students watch more or an equal amount of content as Indian students is rejected, this suggests that **US students watch less content on average than students in India**.
+
+This could have the following implications.
+
+**Market Differences**: These details might indicate that the platform is more engaging or relevant to students in India than US students. Understanding the reasons behind this could be valuable. Are the platform’s specific features, content, or aspects particularly appealing to Indian students? Such questions need to be addressed further but are beyond the scope of this analysis.
+
+**Growth Opportunities**: If US engagement is lower, this could represent a growth opportunity. The 365 company might seek ways to increase engagement among US students, involving marketing efforts, adding more content relevant to US students, or other strategies.
+
+**Resource Allocation**: This information could be helpful when deciding where to allocate resources. For example, if Indian students are more engaged, investing in more content and features targeted toward this audience might make sense.
+
+**End of case study**
+Thank You,
+Best Regards.
 
 
 
