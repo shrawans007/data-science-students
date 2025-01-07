@@ -1,5 +1,5 @@
 # Students_365datascience.com
-## Customer Engagement Analysis in Excel Project
+**Customer Engagement Analysis in Excel Project**
 ## Case Description
 In 2022, there were high expectations for the growth of the 365 company and increased student engagement based on the introduction of new website platform features. Some of these features included,
 1. An XP system that enabled students to track their progress, level up, and earn rewards by completing various learning objectives. 
@@ -8,8 +8,8 @@ In 2022, there were high expectations for the growth of the 365 company and incr
 
 These enhancements were anticipated to positively impact the student experience, create an effective strategy for customer engagement, and contribute to the company's success in the coming year. With this Customer Engagement Analysis in Excel project, as a data analyst I must analyze whether the new additions to the platform have increased student engagement.
 
-## Raw Data And Details:
-**Note**: Raw file is by name 'Engagement Project_Raw.xlsx' is attached above with this project. 
+## Raw Data And Details
+**Note**: Raw Excel file is by name 'Engagement Project_Raw.xlsx' is attached above with this project. 
 
 Columns names with corresponding details:
 1. student_id – the unique identifier for each student in the dataset. The field contains IDs for students who used the 365 Data Science platform with free or paid accounts in Q4 2021 (October 1, 2021 – December 31, 2021, both included) and Q4 2022 (October 1, 2022 – December 31, 2022, both included).
@@ -28,6 +28,7 @@ The Excel file 'Engagement Project_Raw.xlsx' consists of four worksheets: **Task
 Whole case study project is devided into three major parts:
 
 ### Part 1. Descriptive Statistics (Task 1 and 2)
+**Note**: Analysed Excel file is by name 'Engagement Project_Analysed_Copy_shrawans007' is attached above with this project.
 **Task 1**: After checking the data and doing needed calculations using Excel functions/formulas interpretaion of results are as follows: 
 **Paid-Plan Students**
 
