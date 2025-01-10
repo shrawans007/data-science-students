@@ -31,6 +31,7 @@ Whole case study project is devided into three major parts:
 **Note**: Analysed Excel file is by name ['Engagement Project_Analysed_Copy_shrawans007'](https://github.com/shrawans007/data_science_students/blob/1f19f98129874fb344adde7e16b92ba192beb00d/Engagement%20Project_Analysed_Copy_shrawans007.xlsx) is attached above, you can download and see it.
 
 **Task 1**: After checking the data and doing needed calculations using Excel functions/formulas interpretaion of results are as follows: 
+
 **Paid-Plan Students**
 
 ![Screenshot 2025-01-06 210255](https://github.com/user-attachments/assets/1fd7c5d3-f740-4eb2-9d81-649449802a1e)
